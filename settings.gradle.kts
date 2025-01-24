@@ -8,7 +8,7 @@ pluginManagement {
 }
 
 plugins {
-    id("com.gradle.enterprise") version "3.18.2"
+    id("com.gradle.enterprise") version "3.19.1"
 }
 
 include("kompiledb-core")
